@@ -13,3 +13,7 @@ Running
 Run with following to get the PathSim scores for the meta-path "PAFAP"
 
 python train.py --n_layer 2 --n_head 4 --n_inp 256 --n_hid 256 ----gpu 0 
+
+Miscellaneous
+-------
+Please send any questions you might have about the code and/or the algorithm to wxiaoae@cse.ust.hk.
