@@ -1,5 +1,6 @@
 # NeuPath
 The codes for CIKM 2021 paper "Neural PathSim for Inductive Similarity Search in Heterogeneous Information Networks"
+https://arxiv.org/pdf/2109.01549.pdf
 
 Dependencies
 ------------
